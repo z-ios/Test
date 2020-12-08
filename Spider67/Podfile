@@ -1,0 +1,18 @@
+
+ platform :ios, '10.0'
+
+target 'Spider67' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for Spider67
+
+pod 'AFNetworking'
+pod 'IQKeyboardManager', '6.2.1'
+pod 'SVGKit'
+pod 'MJRefresh'
+pod 'YYModel'
+pod 'LYEmptyView'
+pod 'SocketRocket'
+
+end

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_dr_process_finish</title>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.2.1-设备注册-联网方式-4g" transform="translate(-25.000000, -121.000000)" stroke-width="1.2">
+            <g id="processbar-principle-flatten" transform="translate(16.000000, 88.000000)">
+                <g id="processbar">
+                    <g id="processbar/步骤/进行中" transform="translate(9.000000, 33.000000)">
+                        <g id="processbar/进行中">
+                            <path d="M14,0.6 C10.29959,0.6 6.94958745,2.09979069 4.52468907,4.52468907 C2.09979069,6.94958745 0.6,10.29959 0.6,14 C0.6,17.70041 2.09979069,21.0504126 4.52468907,23.4753109 C6.94958745,25.9002093 10.29959,27.4 14,27.4 C17.70041,27.4 21.0504126,25.9002093 23.4753109,23.4753109 C25.9002093,21.0504126 27.4,17.70041 27.4,14 C27.4,10.29959 25.9002093,6.94958745 23.4753109,4.52468907 C21.0504126,2.09979069 17.70041,0.6 14,0.6 Z" id="check" stroke="#26C464" fill="#26C464" fill-rule="nonzero"></path>
+                            <polyline id="路径" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.056981, 12.651650) rotate(-315.000000) translate(-15.056981, -12.651650) " points="17.5318542 8 17.5569805 17.3033009 12.5569805 17.3033009"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

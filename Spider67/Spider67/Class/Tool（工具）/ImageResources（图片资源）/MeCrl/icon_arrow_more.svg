@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_arrow_more</title>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心-管理员" transform="translate(-310.000000, -234.000000)" fill="#6B6F70" fill-rule="nonzero">
+            <g id="all" transform="translate(16.000000, 103.000000)">
+                <g id="设置" transform="translate(0.000000, 102.000000)">
+                    <g id="list/个人中心列表备份-2" transform="translate(15.000000, 15.000000)">
+                        <g id="list/个人中心列表">
+                            <g id="icon/用户备份" transform="translate(279.000000, 14.000000)">
+                                <g id="编组">
+                                    <path d="M12.7928932,8.9 C13.091127,8.9 13.33854,9.11758961 13.3850402,9.40267688 L13.3928932,9.5 L13.3928932,14.5 C13.3928932,14.8313708 13.1242641,15.1 12.7928932,15.1 C12.4946595,15.1 12.2472465,14.8824104 12.2007462,14.5973231 L12.1928932,14.5 L12.192,10.099 L7.79289322,10.1 C7.49465945,10.1 7.24724647,9.88241039 7.20074621,9.59732312 L7.19289322,9.5 C7.19289322,9.20176624 7.41048283,8.95435325 7.6955701,8.90785299 L7.79289322,8.9 L12.7928932,8.9 Z" id="路径" transform="translate(10.292893, 12.000000) rotate(-315.000000) translate(-10.292893, -12.000000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

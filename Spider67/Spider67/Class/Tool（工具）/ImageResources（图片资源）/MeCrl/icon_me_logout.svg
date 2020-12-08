@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_me_logout</title>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="个人中心-管理员" transform="translate(-46.000000, -378.000000)" fill-rule="nonzero" stroke="#6B6F70" stroke-width="1.2">
+            <g id="all" transform="translate(16.000000, 103.000000)">
+                <g id="设置备份-2" transform="translate(0.000000, 194.000000)">
+                    <g id="list/个人中心列表备份" transform="translate(15.000000, 67.000000)">
+                        <g id="list/个人中心列表">
+                            <g id="icon/用户" transform="translate(15.000000, 14.000000)">
+                                <g id="编组">
+                                    <g id="编组-2" transform="translate(5.000000, 2.792893)">
+                                        <path d="M14,15.2071068 L14,17 C14,17.5522847 13.6082492,18 13.125,18 L0.875,18 C0.391750844,18 0,17.5522847 0,17 L0,1 C0,0.44771525 0.391750844,0 0.875,0 L13.125,0 C13.6082492,0 14,0.44771525 14,1 L14,3.20710678 L14,3.20710678" id="路径"></path>
+                                        <polyline id="路径" transform="translate(12.500000, 8.707107) rotate(-225.000000) translate(-12.500000, -8.707107) " points="10 11.2071068 10 6.20710678 15 6.20710678"></polyline>
+                                        <line x1="15" y1="8.70710678" x2="7" y2="8.70710678" id="直线"></line>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

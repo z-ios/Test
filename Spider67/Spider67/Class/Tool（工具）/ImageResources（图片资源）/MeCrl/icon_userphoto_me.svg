@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_userphoto_me</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F3C520" offset="0%"></stop>
+            <stop stop-color="#F99A3B" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="72" height="72" rx="12"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#3A413D" offset="0%"></stop>
+            <stop stop-color="#343936" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.0196222,62 L49.0196222,62 C54.5424697,62 59.0196222,66.4771525 59.0196222,72 L59.0196222,72 L59.0196222,72 L12.0196222,72 C12.0196222,66.4771525 16.4967747,62 22.0196222,62 Z" id="path-5"></path>
+        <filter x="-2.1%" y="-30.0%" width="104.3%" height="140.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.123584716   0 0 0 0 0.149796196   0 0 0 0 0.133870233  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-0.5%" y="-22.5%" width="101.1%" height="125.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.208424388 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M36.0196222,49 C38.2287612,49 40.0196222,50.790861 40.0196222,53 L40.0196222,60 C40.0196222,60.5522847 39.5719069,61 39.0196222,61 L33.0196222,61 C32.4673374,61 32.0196222,60.5522847 32.0196222,60 L32.0196222,53 C32.0196222,50.790861 33.8104832,49 36.0196222,49 Z" id="path-8"></path>
+        <filter x="-50.0%" y="-33.3%" width="200.0%" height="166.7%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="34.4961841%" x2="52.3789454%" y2="41.019599%" id="linearGradient-10">
+            <stop stop-color="#3A413D" offset="0%"></stop>
+            <stop stop-color="#1B231E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#3A413D" offset="0%"></stop>
+            <stop stop-color="#343936" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="0" y="0" width="52" height="33" rx="5"></rect>
+        <filter x="-0.5%" y="-0.8%" width="101.0%" height="101.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.208424388 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-14" cx="13.5" cy="16.5" r="5.5"></circle>
+        <circle id="path-15" cx="40.5" cy="16.5" r="5.5"></circle>
+    </defs>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心-管理员" transform="translate(-29.000000, -108.000000)">
+            <g id="all" transform="translate(16.000000, 103.000000)">
+                <g id="头像" transform="translate(8.000000, 0.000000)">
+                    <g id="编组-7">
+                        <g id="头像/大" transform="translate(5.000000, 5.000000)">
+                            <g id="头像">
+                                <g id="矩形">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                    <g mask="url(#mask-3)">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                                    </g>
+                                </g>
+                                <g id="矩形">
+                                    <use fill="#343936" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                </g>
+                                <path d="M16.6100356,17 L55.4292088,17 C57.0053307,17 58.4345241,17.9255504 59.0792461,19.3637764 L62.0791274,26.0558193 L62.0791274,26.0558193 L62.0315209,42.0119343 C62.0249437,44.2164043 60.2360185,46 58.0315387,46 L14.0196222,46 C11.8120131,45.9960801 10.0217864,44.2076061 10.0157042,42.0000019 L10,25.9668495 L10,25.9668495 L12.9599983,19.3637764 C13.6047202,17.9255504 15.0339137,17 16.6100356,17 Z" id="矩形备份" fill="url(#linearGradient-10)"></path>
+                                <g id="编组" transform="translate(10.019622, 22.000000)">
+                                    <g id="矩形">
+                                        <use fill="url(#linearGradient-11)" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                                    </g>
+                                    <g id="椭圆形">
+                                        <use fill="#343C37" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                        <circle stroke="#1C1E1D" stroke-width="1.5" cx="13.5" cy="16.5" r="6.25"></circle>
+                                        <circle stroke="#FCD359" stroke-width="1" cx="13.5" cy="16.5" r="6"></circle>
+                                        <circle stroke="#111212" stroke-width="1" stroke-linejoin="square" cx="13.5" cy="16.5" r="5"></circle>
+                                    </g>
+                                    <g id="椭圆形备份">
+                                        <use fill="#343C37" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                        <circle stroke="#1C1E1D" stroke-width="1.5" cx="40.5" cy="16.5" r="6.25"></circle>
+                                        <circle stroke="#FCD359" stroke-width="1" cx="40.5" cy="16.5" r="6"></circle>
+                                        <circle stroke="#111212" stroke-width="1" stroke-linejoin="square" cx="40.5" cy="16.5" r="5"></circle>
+                                    </g>
+                                    <rect id="矩形" fill="#8FDF87" x="20" y="26" width="12" height="3"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

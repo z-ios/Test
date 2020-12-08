@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_delete</title>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.1.4-批量删除" transform="translate(-137.000000, -744.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="编组" transform="translate(137.000000, 744.000000)">
+                <g id="形状" transform="translate(2.000000, 2.000000)">
+                    <path d="M5,4 L5,1 C5,0.44771525 5.44771525,0 6,0 L14,0 C14.5522847,0 15,0.44771525 15,1 L15,4 L20,4 L20,6 L18,6 L18,19 C18,19.5522847 17.5522847,20 17,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,6 L0,6 L0,4 L5,4 Z M11.414,12 L13.182,10.232 L11.768,8.818 L10,10.586 L8.232,8.818 L6.818,10.232 L8.586,12 L6.818,13.768 L8.232,15.182 L10,13.414 L11.768,15.182 L13.182,13.768 L11.414,12 Z M7,2 L7,4 L13,4 L13,2 L7,2 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

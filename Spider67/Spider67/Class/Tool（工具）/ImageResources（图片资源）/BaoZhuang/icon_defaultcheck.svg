@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_defaultcheck</title>
+    <g id="appUI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.3.1-设备注册-iothub指向-未选择" transform="translate(-40.000000, -290.000000)" fill-rule="nonzero" stroke="#D8D8D8" stroke-width="1.2">
+            <g id="联网方式" transform="translate(25.000000, 212.000000)">
+                <g id="list/输入框/上下式/矩形default" transform="translate(0.000000, 58.000000)">
+                    <g id="list/个人中心列表">
+                        <g id="icon/用户" transform="translate(15.000000, 20.000000)">
+                            <g id="编组">
+                                <path d="M12,17 C9.2385,17 7,14.7615 7,12 C7,9.2385 9.2385,7 12,7 C14.7615,7 17,9.2385 17,12 C17,14.7615 14.7615,17 12,17 Z" id="check"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

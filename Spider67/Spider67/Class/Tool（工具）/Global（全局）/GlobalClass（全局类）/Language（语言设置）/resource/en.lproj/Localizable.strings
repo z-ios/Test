@@ -1,0 +1,221 @@
+/* 
+  Localizable.strings
+  Spider67
+
+  Created by apple on 17/7/10.
+  Copyright © 2020 apple. All rights reserved.
+*/
+
+// version
+"新版本" = "NEW VERSION！";
+"不在提醒" = "No longer remind";
+"下次再说" = "Next time";
+"立即更新" = "Update now";
+
+
+//LanguageView
+"请选择您的语言" = "Please select language";
+"系统检测您当前语言为" = "The system detects your current language is";
+"确定" = "OK";
+"注" = "Ps:You can switch languages at any time in [SET]";
+
+// loginView
+"欢迎登录" = "Welcome！Please log in";
+"请输入手机号" = "phone number";
+"请输入密码" = "password";
+"记住密码" = "Remember password";
+"登录" = "OK";
+"脱机应用" = "Offline APP";
+"密码不能为空！" = "The password cannot be empty！";
+
+// tuoji
+"spider67演示箱" = "Spider67 demo box0";
+"互动样品箱" = "Spider67 Mobile";
+"spider67蓝牙版" = "spider67 Bluetooth";
+"蓝牙版本" = "Bluetooth version";
+
+//ServerSetController
+"服务器指向" = "Server Pointing";
+"备注" = "Note";
+"协议" = "Protocol";
+"测试服务器" = "Validation Server";
+"取消" = "Cancel";
+"IP信息错误" = "IP information error";
+
+//DeviceController
+"设备" = "Device";
+"离线" = "offline";
+"更多操作" = "More actions";
+"信息" = "information";
+"I/O配置" = "I/O";
+"上报周期" = "Reporting period";
+"FOTA" = "FOTA";
+"编辑" = "Edit";
+"删除" = "Delete";
+"确定要删除设备吗?" = "Are you sure you want to delete the device?";
+"按设备名称排序" = "Sort by device name";
+"按设备标识码排序" = "Sort by device identification code";
+
+
+//MeController
+"语言设置" = "Language Settings";
+"修改密码" = "Change Password";
+"退出登录" = "Log out";
+"原始密码" = "The original password";
+"新密码" = "The new password";
+"确认密码" = "Confirm password";
+"原始密码不能为空" = "The original password cannot be empty";
+"新密码不能为空" = "New password cannot be empty";
+"两次输入的密码不一致" = "The two passwords entered are not consistent";
+"注：修改完成后需重新登录" = "Note: Please login again after modification";
+"请选择语言" = "Please select language";
+"系统当前语言为" = "Current language of the system is";
+"群组管理员" = "Group administrator";
+"普通用户" = "The average user";
+"系统管理员" = "System administrator";
+
+"罗伯特" = "罗伯特";
+"群组" = "群组";
+
+
+
+//SetController
+"应用设置" = "Application settings";
+"次" = "times";
+"HTTP请求超时时限" = "HTTP request timeout period";
+"websocket重连次数" = "Times of WebSocket";
+"BLE重连次数" = "Times of BLE reconnection";
+"当前版本" = "Current Version";
+"自动版本检测" = "Automatic version detection";
+"版本信息" = "Version Information";
+"开启后App每次启动时自动检测新版本" = "After opening, the App will automatically detect a new version every time it starts";
+"手动检测新版本" = "Detect new version";
+"当前已是最新版本" = "this is last version";
+
+
+// 报装
+"系统蓝牙未开启" = "System Bluetooth off";
+"请开启蓝牙，否则无法进行[设备注册]，若蓝牙已授权，请检查【控制中心】蓝牙是否开启" = "Please turn on Bluetooth, otherwise [Device Registration] cannot be performed. If Bluetooth is authorized, please check whether Bluetooth is turned on in [Control Center]";
+"设置" = "Set up";
+"设备连接" = "Device installation";
+"当前无设备" = "There is no equipment";
+"已连接" = "Connected";
+"未连接" = "Disconnect";
+"连接中..." = "Connecting...";
+"返回" = "back";
+"继续" = "continue";
+"蓝牙正在获取特征值..." = "Bluetooth is acquiring characteristic values...";
+"设备重连中..." = "Device Bluetooth reconnecting...";
+"连接超时" = "Connection timed out";
+"连接成功" = "connection succeeded";
+"当前设备蓝牙已断开，是否重连？若取消则返回第一步" = "The Bluetooth of the current device is disconnected, do you want to reconnect? If canceled, return to the first step";
+"重新连接" = "Reconnect";
+"联网方式" = "Networking method";
+"标识码" = "Identification code";
+"型号" = "Type";
+"正在获取标识码..." = "Getting identification code...";
+"正在获取型号..." = "Getting Type...";
+"完成注册" = "Complete registration";
+"下一步" = "Next";
+"上一步" = "Last";
+"取消注册" = "Unregister";
+"命令发送超时，请重试..." = "Command sending timed out, please try again...";
+"指定的联网方式" = "Specified networking method";
+"注：此设备支持的联网方式为4G" = "Note: The networking mode supported by this device is 4G";
+"注：此设备支持的联网方式为Wi-Fi" = "Note: The networking mode supported by this device is Wi-Fi";
+"注：此设备支持的联网方式为4G、Wi-Fi" = "Note: The networking methods supported by this device are 4G, Wi-Fi";
+"IoTHub实例" = "IoTHub Instance";
+"验证中..." = "Verifying";
+"验证通过" = "Verified";
+"验证失败" = "verification failed";
+"设备标识码" = "Device identification code";
+"编辑属性" = "Edit properties";
+"注：此两项均为选填项目" = "Note: These two items are optional";
+"未分组" = "unclassified";
+"所属群组" = "Belonging to the group";
+"设备名称" = "Device name";
+"注册失败" = "registration failed";
+"注册完成" = "Registration is complete";
+"该设备已成功注册" = "The device has been successfully registered";
+"设备型号" = "Device model";
+"注册ID" = "Registration ID";
+"返回上一步当前连接设备即会断开，确定返回？" = "The currently connected device will be disconnected after returning to the previous step. Are you sure to return?";
+
+// 配置设备
+"下发联动" = "Send linkage";
+"下发配置" = "Delivery configuration";
+"上报周期设置" = "Report period setting";
+"FOTA管理" = "FOTA management";
+"保存" = "save";
+"秒" = "second";
+"马上升级" = "Upgrade now";
+"是否马上手动升级到最新版本？" = "Do you want to manually upgrade to the latest version now?";
+"最新版本" = "The latest version";
+"自动升级" = "auto update";
+"每次定时自动检测FOTA并升级到最新版本" = "Automatically detect FOTA and upgrade to the latest version every time";
+"定时升级设置" = "Timed upgrade settings";
+
+
+
+
+// 网关设置详情
+"后端注册ID" = "Backend registration ID";
+"实例" = "Instance";
+"网关" = "Gateway";
+"快速跳转" = "Quick jump";
+"属性" = "Attributes";
+"下发写值命令" = "Send write";
+"channel配置" = "Channel";
+"告警设置" = "Alarm";
+"联动配置" = "Linkage";
+"下发命令" = "Issue order";
+"请输入输入自定义名称" = "Please enter a custom name";
+"请选择执行channel" = "Please select the execution channel";
+"请选择执行动作" = "Please select an action";
+"当前值" = "The current value";
+"写值动作" = "Write value action";
+"执行channel" = "Execute channel";
+"未设置" = "Not set";
+"执行动作" = "Perform actions";
+"同步" = "Synchronize";
+"取反" = "Negate";
+"闭合" = "Close";
+"断开" = "disconnect";
+"公式配置" = "Formula";
+"单位" = "unit";
+"公式" = "formula";
+"公式名" = "Formula name";
+"选择公式名称" = "Select formula name";
+"高阈值" = "High threshold";
+"低阈值" = "Low threshold";
+"请选择公式符号" = "Please select formula symbol";
+"逻辑" = "logic";
+"对数字量channel执行闭合、断开操作" = "Perform closing and opening operations on the digital channel";
+"无配置联动数据" = "No configuration linkage data";
+
+
+// 日志
+"告警日志" = "Alarm log";
+"下发动作日志" = "Send action log";
+"channel上报日志" = "Channel report log";
+"编辑日志" = "Edit log";
+"筛选" = "filter";
+"批量删除" = "batch deletion";
+"IoTHub数值" = "IoTHub";
+"终端数值" = "Terminal";
+"换算值" = "Converted";
+"查看详细内容" = "View details";
+"全部重置" = "Reset all";
+"请输入编辑人姓名" = "Please enter the name of the editor";
+"开始时间不能大于结束时间" = "The start time cannot be greater than the end time";
+"时间段" = "period";
+"开始时间" = "Starting time";
+"至" = "to";
+"结束时间" = "End Time";
+"告警标签" = "Alert label";
+"选择channel（多选）" = "Select channel (multi)";
+"空列表" = "Empty list";
+"没有数据无法进行批量删除" = "Cannot delete batches without data";
+"选择一个标签（多选）" = "Choose a label (multi)";
+"选择一个标签（单选）" = "Choose a label (single)";
+
