@@ -16,7 +16,7 @@
 
 @implementation AppDelegate
 
-
+// 提示（可删）
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     if (@available(iOS 13, *)) {
         
